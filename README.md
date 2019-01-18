@@ -1,5 +1,6 @@
 # 声明 #
 **以下所有 API 均由产品公司自身提供，本人皆从网络获取。获取与共享之行为或有侵犯产品权益的嫌疑。若被告知需停止共享与使用，本人会及时删除此页面与整个项目。请您暸解相关情况，并遵守产品协议。**
+<h1>再次声明，本人皆从网络获取，并非本人抓取</h2>
 
 ## [ONE v3.5.0 之前版本：API 链接](https://github.com/jokermonn/-Api/blob/master/ONE~v3.5.0.md) ##
 
@@ -112,3 +113,16 @@ app 下载链接：[http://www.wandoujia.com/apps/com.meiriyiwen.app](http://www
 ## [途牛火车票：API链接](https://github.com/jokermonn/-Api/blob/master/TuniuTickets.md) ##
 
 途牛火车票网链接：[http://huoche.tuniu.com/](http://huoche.tuniu.com/)
+
+## [安卓壁纸：API 链接](./adesk.md)
+
+![](http://android-artworks.25pp.com/fs08/2018/04/08/3/110_ffd0d670a65c5baf6e7ad327e9728267_con_130x130.png)
+
+app 下载链接：[http://www.wandoujia.com/apps/com.androidesk](http://www.wandoujia.com/apps/com.androidesk)
+
+## [360壁纸：API 链接](./360wallpaper.md)
+
+## [36氪: API 链接](./36Kr(newsflash).md)
+![](https://i.imgur.com/DBmkI8t.png)
+
+app 下载链接：[https://download.36kr.com/](https://download.36kr.com/)
